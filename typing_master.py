@@ -95,6 +95,10 @@ def main():
             print("4. C#")
             print("5. Rust")
             print("6. Ruby")
+            print("7. JavaScript")
+            print("8. Go")
+            print("9. TypeScript")
+            print("10. C++")
 
             category_number = get_user_input("Enter the number corresponding to your chosen category: ")
 
