@@ -1,0 +1,13 @@
+{
+  "Python": ["snake", "python", "django", "flask", "numpy"],
+  "Java": ["coffee", "java", "spring", "hibernate", "android"],
+  "C": ["pointer", "memory", "malloc", "free", "struct"],
+  "C#": ["dotnet", "visualstudio", "unity", "async", "linq"],
+  "Rust": ["ownership", "borrowing", "lifetimes", "cargo", "crate"],
+  "Ruby": ["gem", "rails", "sinatra", "block", "hash"],
+  "JavaScript": ["node", "express", "react", "angular", "vue"],
+  "Go": ["goroutine", "channel", "defer", "panic", "recover"],
+  "TypeScript": ["interface", "class", "module", "async", "await"],
+  "C++": ["iostream", "vector", "map", "set", "class"]
+}
+
